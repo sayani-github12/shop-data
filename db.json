@@ -1,7 +1,6 @@
-{"products":{
+{"products":[{
     "id": 1,
-    "title": "MEN",
-   
+    "title": "MEN",   
     "items": [
       {
         "id": 1,
@@ -14,8 +13,7 @@
         "name": "Brown Brim",
         "imageUrl": "https://i.ibb.co/ZYW3VTp/brown-brim.png",
         "price": 25
-      },
-      
+      },      
       {
         "id": 3,
         "name": "Brown Brim",
@@ -34,14 +32,10 @@
         "imageUrl": "https://i.ibb.co/ZYW3VTp/brown-brim.png",
         "price": 25
       }
-     
-
-      
     ]
   },
   "id": 2,
-  "title": "WOMEN",
- 
+  "title": "WOMEN", 
   "items": [
     {
         "id": 6,
@@ -73,7 +67,6 @@
         "imageUrl": "https://i.ibb.co/ZYW3VTp/brown-brim.png",
         "price": 25
       }
-      
-      
     ]
   }
+]}
